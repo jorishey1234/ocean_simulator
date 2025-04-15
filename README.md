@@ -12,14 +12,14 @@ User interaction with the scalar field is possible via left and right mouse clic
 
 To run : 
 - Download at least 1 month of 2023 velocity currents data at https://doi.org/10.57745/RJS7KV (about 600mb per month). If only one month is taken, it should be the first one (January)
-- Download the python code
-- (optional) Download the tide level file
+- Download the python code ocean_simulator_GUI.py
+- (optional) Download the tide level file 
 
 All data needs to be place in the same folder as the code.
 
 Run with :
 
-- python3 ocean_simulator.py
+- python3 ocean_simulator_GUI.py
 
 Ii needed, install missing packages with pip :
 
